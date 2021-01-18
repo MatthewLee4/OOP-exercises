@@ -13,8 +13,6 @@ console.log(myCard)
 // Card { point: 5, suit: 'diamonds' }
 
 
-console.log(myCard.getImageUrl())
+return (myCard.getImageUrl())
 // 'images/5_of_diamonds.png'
 
-
-//not sure where undefined is coming from
